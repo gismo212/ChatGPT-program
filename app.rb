@@ -8,3 +8,4 @@ end
 
 post '/convert' do
   currency
+end
